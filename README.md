@@ -1,1 +1,1 @@
-# My-Personal-AI-Assistant-Portfolio
+# My Personal AI Assistant Portfolio
